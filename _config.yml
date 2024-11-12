@@ -1,4 +1,5 @@
-title: Ting-Yu Liang (Michelle)
-description: [A short description of your site's purpose]
-#show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-remote_theme: pages-themes/minimal@v0.2.0
+title: Ting-Yu, Liang
+#logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: false
+theme: jekyll-theme-minimal
