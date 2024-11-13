@@ -32,14 +32,14 @@
 
 **Indoor Locationization AI system**
 
-_Supervised by [Prof. Gary Shueng Han CHAN](./https://www.cse.ust.hk/~gchan/)_
+_Supervised by [Prof. Gary Shueng Han CHAN](https://www.cse.ust.hk/~gchan/)_
 - Conducted research on Data-driven and Senor fusion approaches for estimating indoor position and orientation.
 - Implemented a Recurrent Neural Network (RNN) to process and analyze IMU-based motion data.
 - Integrated a Kalman Filter to mitigate drift effects, achieving an absolute trajectory error of less than 0.5 meters, enhancing positioning accuracy.
 
 **Utilizing Large Language Models for News-Based Event-Driven Trading**
 
-_Supervised by [Prof. David Paul ROSSITER](./https://www.cse.ust.hk/~rossiter/)_
+_Supervised by [Prof. David Paul ROSSITER](https://www.cse.ust.hk/~rossiter/)_
 - Developed an automated language model pipeline that collected news data forecasted price movements using Large Language Models and generated systematic trading strategies.
 - Developed a web application using Flask that visualizes real-time price predictions and performance evaluation.
 - Conducted live trading for one month that outperformed market indices.
@@ -54,5 +54,9 @@ _Supervised by [Prof. David Paul ROSSITER](./https://www.cse.ust.hk/~rossiter/)_
 ***
 
 ### Skills
+
+- Programming Languages: Python, C++, JavaScript, SQL, MATLAB
+- Technologies & Frameworks: React, Flask, FastAPI, TensorFlow, PyTorch, AWS, LangChain
+- Natural Languagese: Mandarin (Native), English (Proficient)
 
 
