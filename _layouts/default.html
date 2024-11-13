@@ -12,35 +12,6 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <style>
-        .social-icons {
-            display: flex;
-            flex-direction: column;
-            position: fixed;
-            left: 20px;
-            top: 50%;
-            transform: translateY(-50%);
-            gap: 20px;
-        }
-        .social-icons a {
-            color: #333;
-            font-size: 30px;
-            text-decoration: none;
-            transition: color 0.3s ease, transform 0.2s ease;
-        }
-        .social-icons a:hover {
-            transform: scale(1.2);
-        }
-        .fa-github:hover {
-            color: #171515;
-        }
-        .fa-linkedin:hover {
-            color: #0077b5;
-        }
-        .fa-envelope:hover {
-            color: #EA4335;
-        }
-    </style>
     {% include head-custom.html %}
   </head>
   <body>
@@ -54,18 +25,20 @@
 
         <!--<p>{{ site.description | default: site.github.project_tagline }}</p>-->
 
-        <div class="social-icons">
-            <a href="https://github.com/tingyuliang0116" target="_blank">GitHub
+        <p>
+            <a href="https://github.com/tingyuliang0116" target="_blank">
                 <i class="fab fa-github"></i>
+                <span>Github</span>
             </a>
-            <a href="https://www.linkedin.com/in/ting-yu-liang/" target="_blank">Linkedin
+            <a href="https://www.linkedin.com/in/ting-yu-liang/" target="_blank">
                 <i class="fab fa-linkedin"></i>
+                <span>LinkedIn</span>
             </a>
-            <a href="mailto:tylapp0116@gmail.com">Email
+            <a href="mailto:tylapp0116@gmail.com">
                 <i class="fas fa-envelope"></i>
+                <span>Email</span>
             </a>
-        </div>
-
+        </p>
         <p><a href="assets/file/resume.pdf">CV</a></p>
 
         {% if site.github.is_project_page %}
