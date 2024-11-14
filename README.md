@@ -3,7 +3,7 @@
 
 > I recently graduated from The Hong Kong University of Science and Technology with Bachelor of Engineering in Computer Science and minor in Business.
 >
-> I am particularly interested in Machine Learning, Computer Vision, and Artifical Intelligence for Sports.
+> I am particularly interested in Machine Learning, Computer Vision, and Artificial Intelligence for Sports.
 
 ***
 
