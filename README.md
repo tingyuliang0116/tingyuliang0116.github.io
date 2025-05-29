@@ -59,8 +59,8 @@ _Bachelor of Engineering in Computer Science, with Minor in Business_
 
 - Awards: First Class Honors (Top 10%), Dean’s List * 3
 - Exchange Program: National University of Singapore - School of Computing
-- Relevant Courses: Artificial Intelligence | Search Engines for Web and Enterprise Data | Image Processing | Database Management Systems | Operating Systems | Design and Analysis of Algorithms
-- Activities and Societies: Google Developer Student Club – Technical Core Team Member | J.P. Morgan Code for Good – Champion | USThing – Quality Assurance Officer | Fintech Mentorship Program – Apprentice
+- Relevant Courses: Artificial Intelligence / Search Engines for Web and Enterprise Data / Image Processing / Database Management Systems / Operating Systems / Design and Analysis of Algorithms
+- Activities and Societies: Google Developer Student Club – Technical Core Team Member / J.P. Morgan Code for Good – Champion / USThing – Quality Assurance Officer / Fintech Mentorship Program – Apprentice
 
 ***
 
