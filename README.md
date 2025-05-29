@@ -51,10 +51,10 @@ _Supervised by [Prof. David Paul ROSSITER](https://www.cse.ust.hk/~rossiter/)_
 
 ### Education
 
-** University of Washington
+**University of Washington**
 _Master of Science in Electrical and Computer Engineering_
 
-** Hong Kong University of Science and Technology **
+**Hong Kong University of Science and Technology**
 _Bachelor of Engineering in Computer Science, with Minor in Business_
 
 - Awards: First Class Honors (Top 10%), Dean’s List * 3
