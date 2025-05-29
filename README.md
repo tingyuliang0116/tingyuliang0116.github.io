@@ -1,9 +1,10 @@
 
 ## About Me
-
+> Incoming Master’s student in Electrical and Computer Engineering at the University of Washington.
+>
 > I recently graduated from The Hong Kong University of Science and Technology with Bachelor of Engineering in Computer Science and minor in Business.
 >
-> I am particularly interested in Machine Learning, Computer Vision, and Artificial Intelligence for Sports.
+> I am particularly interested in Machine Learning Operations, AI Infrastructure, and the application of artificial intelligence in sports.
 
 ***
 
@@ -11,9 +12,10 @@
 
 **Artifical Intellignence Engineer Intern @ D8AI Inc. (Oct. 2024 - Present)**
 
-- Designed a Retrieval-Augmented Generation (RAG) system using microservices architecture and LangChain framework.
-- Developed PDF parsing microservices capable of accurately handling and extracting data from images and tables.
-- Built modular components as APIs using FastAPI and integrated them into the RAG system.
+- Developed a Multi-Modal Retrieval-Augmented Generation (RAG) system with microservices architecture.
+- Built an advanced indexing pipeline for structured and unstructured data, leveraging OCR, layout analysis,
+Vision-Language Models (VLMs), and embedding models for vector databases.
+- Implemented the inference workflow, including retrieval, reranking, prompt engineering, and Llama integration.
 
 **Software Engineer Summer Analyst @ JPMorgan Chanse & Co. (Jun 2023. - Aug. 2023)**
 
@@ -34,30 +36,38 @@
 **Indoor Locationization AI system**
 
 _Supervised by [Prof. Gary Shueng Han CHAN](https://www.cse.ust.hk/~gchan/)_
-- Conducted research on Data-driven and Senor fusion approaches for estimating indoor position and orientation.
-- Implemented a Recurrent Neural Network (RNN) to process and analyze IMU-based motion data.
-- Integrated a Kalman Filter to mitigate drift effects, achieving an absolute trajectory error of less than 0.5 meters, enhancing positioning accuracy.
+- Conducted research on Data-Driven and Sensor Fusion approaches for estimating indoor position and orientation.
+- Implemented Recurrent Neural Network (RNN) to process and analyze IMU-based motion data.
+- Integrated Kalman Filter to mitigate drift effects and improve positioning accuracy by 78%.
 
 **Utilizing Large Language Models for News-Based Event-Driven Trading**
 
 _Supervised by [Prof. David Paul ROSSITER](https://www.cse.ust.hk/~rossiter/)_
-- Developed an automated language model pipeline that collected news data forecasted price movements using Large Language Models and generated systematic trading strategies.
-- Developed a web application using Flask that visualizes real-time price predictions and performance evaluation.
+- Developed an automated pipeline for collecting news data and leveraging the GPT-3.5 model to forecast price movements and generate systematic trading strategies.
+- Built a web application using Flask that visualizes real-time price predictions and performance evaluation.
 - Conducted live trading for one month that outperformed market indices.
 
 ***
 
-### Honours
+### Education
 
-- First Class Honours
-- Dean's List for Fall 2020, Fall 2023, Spring 2024
+** University of Washington
+_Master of Science in Electrical and Computer Engineering_
+
+** Hong Kong University of Science and Technology **
+_Bachelor of Engineering in Computer Science, with Minor in Business_
+
+- Awards: First Class Honors (Top 10%), Dean’s List * 3
+- Exchange Program: National University of Singapore - School of Computing
+- Relevant Courses: Artificial Intelligence | Search Engines for Web and Enterprise Data | Image Processing | Database Management Systems | Operating Systems | Design and Analysis of Algorithms
+- Activities and Societies: Google Developer Student Club – Technical Core Team Member | J.P. Morgan Code for Good – Champion | USThing – Quality Assurance Officer | Fintech Mentorship Program – Apprentice
 
 ***
 
 ### Skills
 
-- Programming Languages: Python, C++, JavaScript, SQL, MATLAB
-- Technologies & Frameworks: React, Flask, FastAPI, TensorFlow, PyTorch, AWS, LangChain
-- Natural Languagese: Mandarin (Native), English (Proficient)
+- Programming: Python, C++, JavaScript, SQL, MATLAB
+- Technologies/Frameworks: React, Flask, FastAPI, AWS, Docker, Git, MySQL, TensorFlow, PyTorch, LangChain
+- Languages: Mandarin (Native), English (Proficient)
 
 
